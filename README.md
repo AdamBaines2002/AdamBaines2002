@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdamBaines2002
 - 👀 I’m interested in gaming, learning to code, fishing and nature!
-- 🌱 I’m currently learning JavaScript (and finding it a bit daunting).
 - 📫 How to reach me ... My Email is : adam.baines321@gmail.com
   
 I am 21 yoa and have decided I would like to persue a career in Software Development. Currently I'm learning JavaScript, after completing my Responsive Web Design certificate on freeCodeCamp.org.
